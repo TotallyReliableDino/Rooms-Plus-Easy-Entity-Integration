@@ -1,1 +1,2 @@
-me make this 2 make entity ez
+A Really Really Simple Library/Script To Add Fucntions For Entities Automatically Inside Scripts!
+Might make a documentation later!
