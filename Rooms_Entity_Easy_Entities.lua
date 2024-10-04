@@ -104,4 +104,4 @@ local function AddEntityToSave(
 end
 
 -- Example usage of the functions
-MakeEntity("MyEntity", nil, nil, false, Color3.new(1, 1, 1), false, 1, nil, nil, 5, 450, 7, "Entity death message", 50, 0, 0, 100, 1, 50, 50, 1, 100, 100, 0, true)
+-- MakeEntity("MyEntity", nil, nil, false, Color3.new(1, 1, 1), false, 1, nil, nil, 5, 450, 7, "Entity death message", 50, 0, 0, 100, 1, 50, 50, 1, 100, 100, 0, true)
